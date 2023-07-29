@@ -13,8 +13,8 @@
 **Talking about Personal Stuff:**
 
 - 👀 I’m interested in SDE Roles.
-- 🌱 I’m currently studying at UIET Kanpur.
-- 💞️ I’m looking to contribute in Frontend Development.
+- 🌱 I’m currently working at Odoo, India.
+- 💞️ I’m looking to contribute to Software Development.
 - 📫 Reach me at dp151439@gmail.com
 
 
