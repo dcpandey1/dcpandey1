@@ -4,12 +4,15 @@
 <a href="https://www.linkedin.com/in/dheerajpandey1/">
   <img align="left" alt="Dheeraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://www.instagram.com/dcpandey1/">
-  <img align="left" alt="Dheeraj's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img width="30" height="30" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
 </a>
+
 <a href="https://twitter.com/dcpandey0">
-  <img align="left" alt="Dheeraj's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img width="30" height="30" src="https://img.icons8.com/ios/50/x.png" alt="x"/>
 </a>
+
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
